@@ -1,9 +1,13 @@
 # Algorithm-and-Data-Structure
 
 self-introduction :
+
 Name: Wei - Tsung 
+
 Major: Big Data Management
+
 School: Soochow Univertiy
+
 Goal: Using Python to solve the classic Algorithm-and-Data-Structure Problems
 
 
