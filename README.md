@@ -29,6 +29,7 @@ Self study on the subject of Stack and Linked - list videos
 
 Week2 :
 
-Creating MiniStack
+Leetcode : Creating MiniStack
 
+Leetcode : No.232
 Using the concept of Linked-list to perform the Stack structure operation
