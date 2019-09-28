@@ -20,12 +20,11 @@ Homework & Project links :
 
 
 Week1 :
-
-
-
 Linked List Implementation Using LeetCode Platform :
 
-Self study on the subject of Stack and Linked - list videos
+Leetcode : Designing Linked - list
+
+Harvard University : CS50 Self study on the subject of Stack and Linked-list videos
 
 Week2 :
 
