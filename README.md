@@ -24,7 +24,7 @@ Linked List Implementation Using LeetCode Platform :
 
 Leetcode : Designing Linked - list
 
-Harvard University : CS50 Self study on the subject of Stack and Linked-list videos
+Harvard University CS50 : Self study on the subject of Stack and Linked-list videos
 
 Week2 :
 
