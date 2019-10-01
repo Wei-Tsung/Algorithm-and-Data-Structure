@@ -8,9 +8,9 @@ Name: Wei - Tsung :
 
 - Major: Big Data Management
 
-- School: Soochow Univertiy
+- School: Soochow University
 
-- Goal: Using Python to solve the classic Algorithm-and-Data-Structure Problems
+- Goal: Using Python to solve the classical Algorithm-and-Data-Structure Problems
 
 
 - Homework & Project links :
@@ -33,4 +33,10 @@ Week2 :
 - Leetcode : Creating MiniStack
 
 - Leetcode : No.232 Implement Queue using Stacks
+
+Week3 :
+
+-
+-
+-
 
