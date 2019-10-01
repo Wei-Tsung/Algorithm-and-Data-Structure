@@ -1,6 +1,6 @@
 # Algorithm-and-Data-Structure
 
-self-introduction :
+# self-introduction :
 
 
 
