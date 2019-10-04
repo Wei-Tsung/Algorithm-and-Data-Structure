@@ -25,9 +25,9 @@ Week1 ,  Week2 , Week3 , Week4
 
 > - [Linked List Implementation Using LeetCode Platform]() :
 
-> - [Leetcode : Designing Linked - list]()
+> - [Leetcode : Designing Linked - List]()
 
-> - [Leetcode : Designing Linked - list No.2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-%20Design%20Linked-list%20No2.ipynb)
+> - [Leetcode : Designing Linked - List : No.2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-%20Design%20Linked-list%20No2.ipynb)
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos]()
 
