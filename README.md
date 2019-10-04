@@ -50,9 +50,9 @@ Week2 :
 
 > - [回到目錄](#content)
 
-[Week3] :
+Week3 :
 
-> - Key Concepts:
+>  - Core Concepts : [What is Set]()
 
 > - []
 
@@ -64,6 +64,8 @@ Week2 :
 
 
 Week4 :
+
+>  - Core Concepts : [Sorting Concepts]()
 
 > - [Leetcode insertion sorting]()
 > - [Quick Sorting Project]()
