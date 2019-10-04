@@ -14,7 +14,7 @@
 
 # Content
 
->- Core concepts : exp: what is class : Built it in the notebook
+>- Core concepts : [What is class]() - Built it in the notebook
 
 >> Learning Reference : 
 > - []() 
