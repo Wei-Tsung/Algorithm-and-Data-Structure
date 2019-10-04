@@ -27,7 +27,7 @@
 > - Harvard University CS50 : Self study on the subject of Stack and Linked-list videos
 
 
-Week2 :
+[Week2]() :
 
 > - Using the concept of Linked-list to perform the Stack structure operation
 
@@ -35,7 +35,7 @@ Week2 :
 
 > - Leetcode : No.232 Implement Queue using Stacks
 
-Week3 :
+[Week3]() :
 
 -
 -
