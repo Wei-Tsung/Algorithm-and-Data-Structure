@@ -25,7 +25,7 @@ Week1 ,  Week2 , Week3 , Week4
 
 > - [Linked List Implementation Using LeetCode Platform]() :
 
-> - [Leetcode : Designing Linked - List]()
+> - [Leetcode : Designing Linked - List](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Designing%20%20Linked%20-%20list.ipynb)
 
 > - [Leetcode : Designing Linked - List : No.2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-%20Design%20Linked-list%20No2.ipynb)
 
@@ -36,9 +36,9 @@ Week2 :
 
 > - [Using the concept of Linked-list to perform the Stack structure operation]()
 
-> - [Leetcode : Creating MiniStack]()
+> - [Leetcode : Creating MiniStack](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20Data%20Structure%20-%20MiniStack.ipynb)
 
-> - [Leetcode : No.232 Implement Queue using Stacks]()
+> - [Leetcode : No.232 Implement Queue using Stacks](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-No.232.%20Implement%20Queue%20using%20Stacks.ipynb)
 
 [Week3] :
 
