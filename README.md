@@ -23,6 +23,8 @@
 
 Week1 :
 
+> - Core concepts : [What is Linked-List ?]()
+
 > - [Designing Linked List using LeetCode Platform](https://leetcode.com/problems/design-linked-list/) :
 
 > - [Leetcode : Designing Linked - List](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Designing%20%20Linked%20-%20list.ipynb)
@@ -35,7 +37,7 @@ Week1 :
 
 
 Week2 :
-> - Key Concepts :
+> - Core Concepts : [What is Stack & Queue]()
 
 > - Python Concepts :
 
