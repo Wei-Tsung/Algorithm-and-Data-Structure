@@ -14,14 +14,14 @@
 
 
 >- Homework & Project links :
-[Week1]() ,  Week2 , Week3 , Week4
+[Week1](#Week1) ,  Week2 , Week3 , Week4
 
 >> Learning Reference : 
 > - []() 
 > - []()
 
 
-[Week1]() :
+#Week1 :
 
 > - [Designing Linked List using LeetCode Platform](https://leetcode.com/problems/design-linked-list/) :
 
