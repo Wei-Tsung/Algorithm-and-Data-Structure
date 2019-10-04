@@ -32,7 +32,7 @@
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos]()
 
->> [回到目錄](# Content)
+>> [回到目錄](#content)
 
 
 Week2 :
