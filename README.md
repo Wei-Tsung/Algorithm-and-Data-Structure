@@ -6,11 +6,11 @@
 
 Name: Wei - Tsung :
 
-- Major: Big Data Management
+>>- Major: Big Data Management
 
-- School: Soochow University
+>>- School: Soochow University
 
-- Goal: Using Python to solve the classical Algorithm-and-Data-Structure Problems
+>>- Goal: Using Python to solve the classical Algorithm-and-Data-Structure Problems
 
 
 - Homework & Project links :
