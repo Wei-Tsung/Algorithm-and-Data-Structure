@@ -4,7 +4,7 @@
 
 
 
->>> Name: Wei - Tsung :
+>> Name: Wei - Tsung :
 
 >- Major: Big Data Management
 
