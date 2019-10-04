@@ -41,7 +41,7 @@ Week2 :
 
 > - Python Concepts :
 
-> - [Using the concept of Stack implementing Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
+> - [Problem : Using the concept of Stack implementing Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 
 > - [Leetcode : Creating MiniStack](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20Data%20Structure%20-%20MiniStack.ipynb)
