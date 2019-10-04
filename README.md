@@ -57,7 +57,7 @@ Week2 :
 
 Week4 :
 
-> - Leetcode sorting
-> - Quick Sorting Project
+> - [Leetcode insertion sorting]()
+> - [Quick Sorting Project]()
 > -
 
