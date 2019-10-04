@@ -33,6 +33,7 @@ Week1 ,  Week2 , Week3 , Week4
 
 
 Week2 :
+> - Key Concepts :
 
 > - [Using the concept of Linked-list to perform the Stack structure operation]()
 
@@ -42,9 +43,9 @@ Week2 :
 
 [Week3] :
 
-> -
+> - Key Concepts:
 
-> -
+> - [Leetcode : Set Mismatch No1. Hashes Way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/645.%20Set%20Mismatch.ipynb)
 
-> -
+> - [Leetcode : Set Mismatch No1. Using Array]()
 
