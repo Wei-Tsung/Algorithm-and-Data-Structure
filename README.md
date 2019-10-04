@@ -14,7 +14,7 @@ Name: Wei - Tsung :
 
 
 - Homework & Project links :
-[Week1][https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1] , [Week2]() , [Week3]() , [Week4]()
+[Week1](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1) , [Week2]() , [Week3]() , [Week4]()
 
 
 
