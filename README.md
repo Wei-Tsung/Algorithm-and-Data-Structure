@@ -29,11 +29,11 @@ Week1 :
 
 Week2 :
 
-- Using the concept of Linked-list to perform the Stack structure operation
+> - Using the concept of Linked-list to perform the Stack structure operation
 
-- Leetcode : Creating MiniStack
+> - Leetcode : Creating MiniStack
 
-- Leetcode : No.232 Implement Queue using Stacks
+> - Leetcode : No.232 Implement Queue using Stacks
 
 Week3 :
 
