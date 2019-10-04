@@ -33,7 +33,7 @@ Week1 :
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos]()
 
-> - [回到目錄](#content)
+> - [Back to the top](#content)
 
 
 Week2 :
@@ -48,7 +48,7 @@ Week2 :
 
 > - [Leetcode : No.232 Implement Queue using Stacks](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-No.232.%20Implement%20Queue%20using%20Stacks.ipynb)
 
-> - [回到目錄](#content)
+> - [Back to the top](#content)
 
 Week3 :
 
@@ -60,7 +60,7 @@ Week3 :
 
 > - [Leetcode : Set Mismatch No2. Using Array]()
 
-> - [回到目錄](#content)
+> - [Back to the top](#content)
 
 
 Week4 :
@@ -71,7 +71,7 @@ Week4 :
 > - [Quick Sorting Project]()
 > -
 
-> - [回到目錄](#content)
+> - [Back to the top](#content)
 
 
 
