@@ -12,7 +12,7 @@
 
 >- Goal: Using Python to solve the classical Algorithm-and-Data-Structure Problems
 
-# content
+# Content
 
 >- Homework & Project links :
 [Week1](<span id="jump">) ,  [Week2]() , [Week3]() , [Week4]()
@@ -32,7 +32,7 @@
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos]()
 
->> [回到目錄](#)
+>> [回到目錄](# Content)
 
 
 Week2 :
