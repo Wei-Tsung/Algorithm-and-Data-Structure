@@ -33,7 +33,7 @@ Week1 :
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos]()
 
-> - [Back to the top](#content)
+
 
 
 Week2 :
