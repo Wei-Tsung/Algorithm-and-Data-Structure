@@ -6,7 +6,7 @@
 
 Name: Wei - Tsung :
 
->- Major: Big Data Management
+>>- Major: Big Data Management
 
 >- School: Soochow University
 
