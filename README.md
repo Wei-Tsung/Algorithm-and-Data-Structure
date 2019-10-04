@@ -14,7 +14,7 @@
 
 
 >- Homework & Project links :
-[Week1](#week1) ,  Week2 , Week3 , Week4
+[Week1](#week1) ,  [Week2]() , [Week3]() , [Week4]()
 
 >> Learning Reference : 
 > - []() 
