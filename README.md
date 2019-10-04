@@ -23,7 +23,7 @@ Week1 ,  Week2 , Week3 , Week4
 
 [Week1] :
 
-> - [Linked List Implementation Using LeetCode Platform]() :
+> - [Designing Linked List using LeetCode Platform](https://leetcode.com/problems/design-linked-list/) :
 
 > - [Leetcode : Designing Linked - List](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Designing%20%20Linked%20-%20list.ipynb)
 
@@ -35,7 +35,10 @@ Week1 ,  Week2 , Week3 , Week4
 Week2 :
 > - Key Concepts :
 
-> - [Using the concept of Linked-list to perform the Stack structure operation]()
+> - Python Concepts :
+
+> - [Using the concept of Stack implementing Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
+
 
 > - [Leetcode : Creating MiniStack](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20Data%20Structure%20-%20MiniStack.ipynb)
 
@@ -45,7 +48,9 @@ Week2 :
 
 > - Key Concepts:
 
+> - []
+
 > - [Leetcode : Set Mismatch No1. Hashes Way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/645.%20Set%20Mismatch.ipynb)
 
-> - [Leetcode : Set Mismatch No1. Using Array]()
+> - [Leetcode : Set Mismatch No2. Using Array]()
 
