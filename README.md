@@ -67,7 +67,7 @@ Week4 :
 
 >  - Core Concepts : [Sorting Concepts]()
 
-> - [Leetcode insertion sorting]()
+> - [Leetcode : No147. insertion sorting](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Insertion%20Sort%20-%20initial%20writing.ipynb)
 > - [Quick Sorting Project]()
 > -
 
