@@ -23,7 +23,7 @@
 
 Week1 :
 
-> - Core concepts : [What is Linked-List ?]()
+> - Core concepts : [What is Linked-List ?](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1/README.md)
 
 > - [Problem : Designing Linked List using LeetCode Platform](https://leetcode.com/problems/design-linked-list/) :
 
