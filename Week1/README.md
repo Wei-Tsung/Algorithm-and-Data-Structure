@@ -1,3 +1,3 @@
 ## What is Linked-List ?
 
-![LinkedList](./jupyter_markdown/LinkedList.jpg)
+![LinkedList](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1/LinkedList.jpg)
