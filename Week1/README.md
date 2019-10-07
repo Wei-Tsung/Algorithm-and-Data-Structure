@@ -20,9 +20,11 @@ Linked - list卻要透過第一個節點開始走訪每一個節點才能查詢�
 
 #### Memory Management 動態記憶體管理示意圖
 
-<img src="https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg" width="500" height="500">
+<img src="https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg" width="600" height="300">
 
 
+
+### Hands-on Practice
 
 
 嘗試建立一次Linked-list
