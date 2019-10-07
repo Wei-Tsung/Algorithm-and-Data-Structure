@@ -61,7 +61,7 @@ Leetcode : Desigining Linkedlist
 
 ## Pictures Reference :
 > [What’s a Linked List, Anyway? | by Vaidehi Joshi ](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
-
+> [Linked List: Intro(簡介) : By Chiu CC ](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
 
 
