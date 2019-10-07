@@ -38,7 +38,11 @@ Leetcode : Desigining Linkedlist
 
 >3.addAtTail(val) : 將輸入的 val 新增在 linked-List 的最後一個位置。
 
->4.addAtIndex(index, val) : 在 linked-List 中，指定 index 的位置插入 val。
+>4.deleteAtIndex(index) : 如果 index 在 linked-List 裡是有效的，刪除對應的 val。
+
+![RemoveLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/RemoveLinkedList.jpg)
+
+>5.addAtIndex(index, val) : 在 linked-List 中，指定 index 的位置插入 val。
 > addAtIndex:
 >>當 index 等於 linked-List 的長度，將 val 插在最後一個位置。
 >>當 index 大於 linked-List 的長度，則 val 不會插入 linked-List。
@@ -50,7 +54,5 @@ Leetcode : Desigining Linkedlist
 
 
 
->5. deleteAtIndex(index) : 如果 index 在 linked-List 裡是有效的，刪除對應的 val。
 
-![RemoveLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/RemoveLinkedList.jpg)
 
