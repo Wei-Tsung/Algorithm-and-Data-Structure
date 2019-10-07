@@ -46,8 +46,11 @@ Leetcode : Desigining Linkedlist
 > addAtIndex:
 
 >><strong>特殊條件</strong> :
+
 >>當 index 等於 linked-List 的長度，將 val 插在最後一個位置。
+
 >>當 index 大於 linked-List 的長度，則 val 不會插入 linked-List。
+
 >>當 index 為負數，將 val 插在第一個位置。
 
 ![InsertLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/InsertLinkedList.jpg)
