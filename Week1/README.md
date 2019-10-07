@@ -23,6 +23,8 @@ Linked - list卻要透過第一個節點開始走訪每一個節點才能查詢�
 <img src="https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg" width="600" height="300">
 
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/linked-list%E5%9C%A8%E8%A8%98%E6%86%B6%E9%AB%94%E5%84%B2%E5%AD%98%E7%9A%84%E7%8B%80%E6%85%8B.png' width='600' height='300'>
+
 
 ### Hands-on Practice
 
