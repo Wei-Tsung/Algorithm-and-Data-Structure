@@ -26,10 +26,6 @@ Linked - list卻要透過第一個節點開始走訪每一個節點才能查詢�
 
 
 
-![RemoveLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/RemoveLinkedList.jpg)
-
-
-![InsertLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/InsertLinkedList.jpg)
 
 Leetcode : Desigining Linkedlist
 
@@ -49,3 +45,9 @@ Leetcode : Desigining Linkedlist
 >>當 index 為負數，將 val 插在第一個位置。
 
 >deleteAtIndex(index) : 如果 index 在 linked-List 裡是有效的，刪除對應的 val。
+
+
+![RemoveLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/RemoveLinkedList.jpg)
+
+
+![InsertLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/InsertLinkedList.jpg)
