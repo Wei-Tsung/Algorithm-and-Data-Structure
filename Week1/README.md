@@ -20,8 +20,7 @@ Linked - list卻要透過第一個節點開始走訪每一個節點才能查詢�
 
 #### Memory Management 動態記憶體管理
 
-![MemoryManagement](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg)
-![MemoryManagement](width='10')
+![MemoryManagement]()
 
 
 
@@ -31,13 +30,13 @@ Leetcode : Desigining Linkedlist
 
 需要建立的 function
 
->get(index) : 輸入 index 可以取得在 linked-List 裡對應的 val。
+>1.get(index) : 輸入 index 可以取得在 linked-List 裡對應的 val。
 
->addAtHead(val) : 將輸入的 val 新增在 linked-List 的第一個位置。
+>2.addAtHead(val) : 將輸入的 val 新增在 linked-List 的第一個位置。
 
->addAtTail(val) : 將輸入的 val 新增在 linked-List 的最後一個位置。
+>3.addAtTail(val) : 將輸入的 val 新增在 linked-List 的最後一個位置。
 
->addAtIndex(index, val) : 在 linked-List 中，指定 index 的位置插入 val。
+>4.addAtIndex(index, val) : 在 linked-List 中，指定 index 的位置插入 val。
 > addAtIndex:
 >>當 index 等於 linked-List 的長度，將 val 插在最後一個位置。
 >>當 index 大於 linked-List 的長度，則 val 不會插入 linked-List。
@@ -49,7 +48,7 @@ Leetcode : Desigining Linkedlist
 
 
 
->deleteAtIndex(index) : 如果 index 在 linked-List 裡是有效的，刪除對應的 val。
+>5. deleteAtIndex(index) : 如果 index 在 linked-List 裡是有效的，刪除對應的 val。
 
 ![RemoveLinkedList](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/RemoveLinkedList.jpg)
 
