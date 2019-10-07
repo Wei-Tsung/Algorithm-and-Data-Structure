@@ -44,6 +44,7 @@ Leetcode : Desigining Linkedlist
 
 >5.addAtIndex(index, val) : 在 linked-List 中，指定 index 的位置插入 val。
 > addAtIndex:
+>>特殊條件 :
 >>當 index 等於 linked-List 的長度，將 val 插在最後一個位置。
 >>當 index 大於 linked-List 的長度，則 val 不會插入 linked-List。
 >>當 index 為負數，將 val 插在第一個位置。
