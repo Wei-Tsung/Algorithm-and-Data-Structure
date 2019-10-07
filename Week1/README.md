@@ -1,3 +1,3 @@
 ## What is Linked-List ?
 
-[](./jupyter_markdown/LinkedList.jpg)
+![LinkedList](./jupyter_markdown/LinkedList.jpg)
