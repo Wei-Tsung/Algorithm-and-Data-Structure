@@ -18,14 +18,15 @@ Linked - list卻要透過第一個節點開始走訪每一個節點才能查詢�
 
 使用Linked-list結構就能有效彈性的運用這些散落在各處的記憶體空間 , 使硬體發揮其最大的功效
 
-#### Memory Management 動態記憶體管理
+#### Memory Management 動態記憶體管理示意圖
 
-![MemoryManagement]()
-
-
-
+![MemoryManagement](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg)
+<img src="https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg" width="200" height="100">
 
 
+
+
+嘗試建立一次Linked-list
 Leetcode : Desigining Linkedlist
 
 需要建立的 function
