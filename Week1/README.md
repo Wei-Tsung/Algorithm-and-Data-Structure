@@ -21,7 +21,7 @@ Linked - list卻要透過第一個節點開始走訪每一個節點才能查詢�
 #### Memory Management 動態存取記憶體
 
 ![MemoryManagement](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Dynamic%20memeory%20management.jpeg)
-![MemoryManagement](width='100')
+![MemoryManagement](width='10')
 
 
 
