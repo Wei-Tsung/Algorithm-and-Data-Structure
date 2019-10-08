@@ -1,2 +1,4 @@
 
-### What is Stack ?
+## What is Stack ?
+
+---
