@@ -25,6 +25,8 @@ Week1 :
 
 > - Core concepts : [What is Linked-List ?](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1/README.md)
 
+> - [Singly Linked list Circular-Check Problem]()
+
 > - [Problem : Designing Linked List using LeetCode Platform](https://leetcode.com/problems/design-linked-list/) :
 
 > - [Leetcode : Designing Linked - List](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Designing%20%20Linked%20-%20list.ipynb)
@@ -32,6 +34,8 @@ Week1 :
 > - [Leetcode : Designing Linked - List : No.2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-%20Design%20Linked-list%20No2.ipynb)
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos](http://cs50.tv/2013/fall/#about,seminars)
+
+
 
 
 
@@ -66,6 +70,8 @@ Week3 :
 Week4 :
 
 >  - Core Concepts : [Sorting Concepts]()
+
+>  - Bubble Sorting
 
 > - [Leetcode : No147. insertion sorting - initial version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Insertion%20Sort%20-%20initial%20writing.ipynb)
 > - [Leetcode : No147. insertion sorting - improved version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/insertionSortList%20---%20Improved%20model.ipynb)
