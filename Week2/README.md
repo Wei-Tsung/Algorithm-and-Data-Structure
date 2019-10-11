@@ -4,7 +4,8 @@
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/What%20is%20Stack%20Data%20Structure.png' width='600' height='400'>
 
 
-
+## Application of Stack Structure :
+1. 系統的還原 回到上一步(Undo)的功能
 
 ## How about Queue?
 
