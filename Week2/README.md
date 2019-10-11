@@ -11,6 +11,9 @@
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/security_queue-1024x552.png' width='700' height='350'>
 
+<img src='' width='' height=''>
+
+<img src='' width='' height=''>
 
 ### 佇列(Queue)常用的方法如下
 
