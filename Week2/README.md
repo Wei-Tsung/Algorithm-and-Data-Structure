@@ -34,4 +34,4 @@
 2. 線上客服系統 & 電話呼叫中心的處理排程
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/queue3.gif' width='400' height='100'>
-<img src='' width='' height=''>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/queue4.gif' width='400' height='100'>
