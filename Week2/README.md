@@ -7,3 +7,14 @@
 
 
 ## How about Queue?
+
+<img src='' width='' height=''>
+
+
+
+
+## Application of Queue :
+
+1. 作業系統(OS) :: CPU :: 記憶體　等運算軟體和裝置的工作排程　, 優先順序以先進先處理
+2. 線上客服系統　& 電話呼叫中心的處理排程
+
