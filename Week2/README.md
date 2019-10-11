@@ -30,9 +30,9 @@
 
 ## Application of Queue Structure :
 
-1. 作業系統(OS) ： CPU ： 記憶體等軟體運算和裝置的工作排程 ， 優先順序以先進先處理
-2. 線上客服系統 & 電話呼叫中心的處理排程
+- 1. 作業系統(OS) ： CPU ： 記憶體等軟體運算和裝置的工作排程 ， 優先順序以先進先處理
+- 2. 線上客服系統 & 電話呼叫中心的處理排程
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/queue3.gif' width='400' height='100'>
 
- <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/queue4.gif' width='400' height='100'>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/queue4.gif' width='400' height='100'>
