@@ -8,7 +8,7 @@
 
 ## How about Queue?
 
-<img src='' width='' height=''>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/security_queue-1024x552.png' width='600' height='400'>
 
 
 
