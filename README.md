@@ -69,8 +69,6 @@ Week3 :
 
 Week4 :
 
->  - Bubble Sorting
-
 > - Insertion Sorting Abstarctions : []()
 > - [Leetcode : No147. insertion sorting - initial version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Insertion%20Sort%20-%20initial%20writing.ipynb)
 > - [Leetcode : No147. insertion sorting - improved version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/insertionSortList%20---%20Improved%20model.ipynb)
@@ -78,6 +76,11 @@ Week4 :
 > - Quick Sorting Abstractions : []()
 > - [Quick Sorting Project]()
 > -
+
+Extra:
+
+>  - Bubble Sorting
+
 
 > - [Back to the top](#)
 
