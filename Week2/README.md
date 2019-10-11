@@ -11,9 +11,7 @@
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/security_queue-1024x552.png' width='700' height='350'>
 
-<img src='' width='' height=''>
 
-<img src='' width='' height=''>
 
 ### 佇列(Queue)常用的方法如下
 
@@ -24,8 +22,16 @@
 >     Peek	        從佇列前端取出一個項目，但不移除
 
 
+
+
+
+
+
+
 ## Application of Queue Structure :
 
 1. 作業系統(OS) ： CPU ： 記憶體等軟體運算和裝置的工作排程 ， 優先順序以先進先處理
 2. 線上客服系統 & 電話呼叫中心的處理排程
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/queue3.gif' width='400' height='100'>
+<img src='' width='' height=''>
