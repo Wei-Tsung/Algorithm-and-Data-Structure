@@ -12,6 +12,13 @@
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/security_queue-1024x552.png' width='700' height='350'>
 
 
+### 佇列(Queue)常用的方法如下
+
+>    名稱	       說明
+> - Count	取得佇列中目前的項目數量
+> - Dequeue	從佇列前端取出一個項目，同時將其移除
+> - Enqueue	從佇列尾端加入一個項目
+> - Peek	從佇列前端取出一個項目，但不移除
 
 
 ## Application of Queue Structure :
