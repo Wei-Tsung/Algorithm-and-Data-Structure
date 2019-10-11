@@ -7,7 +7,7 @@
 ## Application of Stack Structure :
 1. 系統的還原 回到上一步(Undo)的功能
 
-## How about Queue?
+## And What is Queue (佇列) ?
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/security_queue-1024x552.png' width='700' height='350'>
 
