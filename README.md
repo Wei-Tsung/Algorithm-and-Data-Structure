@@ -43,7 +43,7 @@ Extra:
 
 
 Week2 :
-> - Core Concepts : [What is Stack & Queue]()
+> - Core Concepts : [What is Stack & Queue](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/Week2)
 
 > - Python Concepts :
 
