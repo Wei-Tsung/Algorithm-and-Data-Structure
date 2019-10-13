@@ -11,13 +11,13 @@
 ## Application of Stack Structure :
 Stack最主要的功能是「記得先前的資訊」，所以時常用來處理需要「回復到先前的狀態」的問題，也稱為Back-Tracking問題，例如：
 
-編輯器(如word、sublime等等)中的undo
-網頁瀏覽器的「回到前一頁」功能
-編譯器(compiler)中的Parsing
-任何遞迴(recursion)形式的演算法，都可以用Stack改寫，例如Depth-First Search(DFS，深度優先搜尋)
-因為遞迴(recursion)使用了系統的Call Stack
-於記憶體管理(memory management)中的Call Stack
-參考：Wikipedia：Call stack
+>- 編輯器(如word、sublime等等)中的undo
+>- 網頁瀏覽器的「回到前一頁」功能
+>- 編譯器(compiler)中的Parsing
+>- 任何遞迴(recursion)形式的演算法，都可以用Stack改寫，例如Depth-First Search(DFS，深度優先搜尋)
+>- 因為遞迴(recursion)使用了系統的Call Stack
+>- 於記憶體管理(memory management)中的Call Stack
+>- 參考：Wikipedia：Call stack
 
 
 ## And What is Queue (佇列) ?
