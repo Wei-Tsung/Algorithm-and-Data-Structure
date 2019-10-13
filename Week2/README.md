@@ -7,6 +7,14 @@
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/What%20is%20Stack%20Data%20Structure.png' width='600' height='400'>
 
+## 堆疊(Stack)常用的方法如下
+
+>      名稱	                 說明
+>      Count          取得堆疊中目前的項目數量
+>       Pop           從堆疊最頂端取出一個項目，同時將其移除
+>       Push          從堆疊最頂端加入一個項目
+>       Peek          從堆疊最頂端取出一個項目，但不移除
+
 
 ## Application of Stack Structure :
 Stack最主要的功能是「記得先前的資訊」，所以時常用來處理需要「回復到先前的狀態」的問題，也稱為Back-Tracking問題，例如：
