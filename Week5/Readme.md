@@ -16,8 +16,7 @@ Quick sort 的切割方式為，每次從數列中選出一個元素作為 pivot
 
 Quick sort 切割後通常會有兩半大小不同的情況(經常兩半部大小差距極大  依據基準點的篩選不同而定)
 
-Quick sort 切割後，pivot 並不會傳遞下去，而是將此pivot value 擺放到Array的中間
-因此每次遞回的總元素數量都會減1。
+Quick sort 切割後，pivot 並不會向下傳遞，而是將此pivot value擺放到Array中間的位置，因此每次遞迴的總元素數量都會減1。
 
 切割的停止時機設定為，已沒有元素可進行切割(也就是Array的長度 < 2的時候)
 
