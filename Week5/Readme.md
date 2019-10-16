@@ -19,3 +19,12 @@
 
 
 ## Time Complexity 時間複雜度
+
+
+
+
+
+### English Reference 英文參考
+
+
+[Quick Sorting Algorithm](http://typeocaml.com/2015/01/02/immutable/)
