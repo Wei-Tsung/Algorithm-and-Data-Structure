@@ -24,7 +24,7 @@
 
 
 
-### English Reference 英文參考
+### English Reference  
 
 
 [Quick Sorting Algorithm](http://typeocaml.com/2015/01/02/immutable/)
