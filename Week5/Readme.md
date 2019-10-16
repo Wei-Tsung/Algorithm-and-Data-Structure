@@ -10,6 +10,12 @@
 
 
 
+## 具有四種類型的基準點
+
+- 第一個 element 為基準點 (最常使用)
+- 總是以最後一個 element 為基準點
+- 以中位數為基準點
+- 隨機基準點 
 
 
 
@@ -28,3 +34,5 @@
 
 
 [Quick Sorting Algorithm](http://typeocaml.com/2015/01/02/immutable/)
+
+## 圖片參照
