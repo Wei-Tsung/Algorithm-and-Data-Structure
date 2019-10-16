@@ -78,7 +78,7 @@ Week4 :
 
 > - Quick Sorting Abstractions : [Readme](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week3/README.md)
 >> - Implementation of Abstractions []()
-> - [Quick Sorting Project]()
+> - [Quick Sorting Algorithm Homework]()
 > -
 
 Extra:
