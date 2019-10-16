@@ -48,9 +48,9 @@ Quick sort 切割後，pivot 並不會向下傳遞，而是將此pivot value擺�
 
 
 
-## English Reference  
+## English / Chinese Reference  
 
 
 [Quick Sorting Algorithm](http://typeocaml.com/2015/01/02/immutable/)
-
+[時間複雜度](https://blog.kuoe0.tw/posts/2013/03/15/sort-about-quick-sort/)
 ## 圖片參照
