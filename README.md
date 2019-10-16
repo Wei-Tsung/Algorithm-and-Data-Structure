@@ -85,7 +85,7 @@ Extra:
 
 >  - Bubble Sorting : []()
 
->> - [Implementation of Abstractions]()
+>> - [Implementation of Abstractions](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Bubble%20Sorting%20-%20%E6%B3%A1%E6%B2%AB%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
 
 > - [Back to the top](#)
 
