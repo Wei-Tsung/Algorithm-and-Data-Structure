@@ -77,7 +77,7 @@ Week4 :
 > - [Leetcode : No147. insertion sorting - improved version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/insertionSortList%20---%20Improved%20model.ipynb)
 
 > - Quick Sorting Abstractions : [Readme](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week3/README.md)
->> - Implementation of Abstractions []()
+>> -[Implementation of Abstractions](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Implementation%20of%20%20Quick%20Sort.ipynb)
 > - [Quick Sorting Algorithm Homework]()
 > -
 
