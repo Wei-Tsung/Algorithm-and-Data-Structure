@@ -78,7 +78,7 @@ Week4 :
 
 > - Quick Sorting Abstractions : [Readme](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week3/README.md)
 >> -[Quick Sorting Algorithm Homework  - Standard Way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Implementation%20of%20%20Quick%20Sort.ipynb)
-> - [Quick Sorting Algorithm Homework -- Subtle way]()
+> - [Quick Sorting Algorithm Homework -- Subtle way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Quick%20-%20Sorting%20%20Algorithm%20Great-Solved.ipynb)
 > -
 
 Extra:
