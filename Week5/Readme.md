@@ -36,7 +36,9 @@ Quick sort 切割後，pivot 並不會向下傳遞，而是將此pivot value擺�
 
 
 ## Time Complexity 時間複雜度
+- 最佳時為 O(nlog2n)
 
+- 最差為 O(n^2)
 
 
 
