@@ -81,7 +81,7 @@ Week4 :
 >>> - [ Standard Way  網頁版開啟](https://nbviewer.jupyter.org/github/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Implementation%20of%20%20Quick%20Sort.ipynb)
 >> - [Quick Sorting Algorithm Homework -- Subtle way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Quick%20-%20Sorting%20%20Algorithm%20Great-Solved.ipynb)
 >>> - [ Subtle Way  網頁版開啟](https://nbviewer.jupyter.org/github/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Quick%20-%20Sorting%20%20Algorithm%20Great-Solved.ipynb)
->> - [Abstraction Graph 抽象思維流程圖 ]()
+>> - [Abstraction Graph 抽象思維流程圖 ](https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E6%8A%BD%E8%B1%A1%E6%80%9D%E7%B6%AD%E6%B5%81%E7%A8%8B%E5%9C%96%20Abstraction%20of%20State.png)
 
 Extra:
 
