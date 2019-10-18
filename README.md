@@ -52,7 +52,7 @@ Week2 :
 
 > - [Leetcode : Creating MiniStack](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20Data%20Structure%20-%20MiniStack.ipynb)
 
-> - [Leetcode : No.232 Implement Queue using Stacks](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-No.232.%20Implement%20Queue%20using%20Stacks.ipynb)
+> - [Leetcode : No.232 Implement Queue using Stacks](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week2/Leetcode%20-No.232.%20Implement%20Queue%20using%20Stacks.ipynb)
 
 > - [Back to the top](#content)
 
