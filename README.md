@@ -99,6 +99,7 @@ Extra:
 
 ## Sorting Algorithmn Time / Space Complexity :
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Sorting%20Complexities.JPG' width=600>
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Sorting%20Complexity.png' width=600>
 
 
