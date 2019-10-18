@@ -50,7 +50,7 @@ Week2 :
 > - [Problem : Using the concept of Stack implementing Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 
-> - [Leetcode : Creating MiniStack](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20Data%20Structure%20-%20MiniStack.ipynb)
+> - [Leetcode : Creating MiniStack](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week2/Leetcode%20Data%20Structure%20-%20MiniStack.ipynb)
 
 > - [Leetcode : No.232 Implement Queue using Stacks](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week2/Leetcode%20-No.232.%20Implement%20Queue%20using%20Stacks.ipynb)
 
