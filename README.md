@@ -97,7 +97,8 @@ Extra:
 > - [Leetcode 965 : Univalued Binary Tree]() 
 
 
-## 排序演算法的時間/空間的複雜度(Time Complexity):
+## Sorting Algorithmn Time / Space Complexity :
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Sorting%20Complexity.png' width=600>
 
 
