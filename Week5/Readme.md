@@ -56,4 +56,6 @@ Quick sort 切割後，pivot 並不會向下傳遞，而是將此pivot value擺�
 - [時間複雜度](https://blog.kuoe0.tw/posts/2013/03/15/sort-about-quick-sort/)
 
 - [random pivot](https://www.hackerearth.com/zh/practice/algorithms/sorting/quick-sort/tutorial/)
+
+- [快速排序 中文部落格](https://emn178.pixnet.net/blog/post/88613503-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95(quick-sort))
 ## 圖片參照
