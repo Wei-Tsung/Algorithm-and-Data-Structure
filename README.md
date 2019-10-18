@@ -31,7 +31,7 @@ Week1 :
 
 > - [Leetcode : Designing Linked - List](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Designing%20%20Linked%20-%20list.ipynb)
 
-> - [Leetcode : Designing Linked - List : No.2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Leetcode%20-%20Design%20Linked-list%20No2.ipynb)
+> - [Leetcode : Designing Linked - List : No.2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1/Leetcode%20-%20Design%20Linked-list%20No2.ipynb)
 
 > - [Harvard University CS50 : Self study on the subject of Stack and Linked-list videos](http://cs50.tv/2013/fall/#about,seminars)
 
