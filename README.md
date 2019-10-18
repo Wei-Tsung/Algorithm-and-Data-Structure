@@ -100,6 +100,6 @@ Extra:
 ## Sorting Algorithmn Time / Space Complexity :
 > - [什麼是Big-O Notation]()
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Big%20O%20notation%20Cheetsheet.jpeg' width=600>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Big%20O%20notation%20Cheetsheet.jpeg'>
 
 (The Sheet Created By Author: http://bigocheatsheet.com/)
