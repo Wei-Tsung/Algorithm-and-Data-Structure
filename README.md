@@ -64,7 +64,7 @@ Week3 :
 
 > - [Leetcode : Set Mismatch No1. Hashes Way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week3/645.%20Set%20Mismatch.ipynb)
 
-> - [Leetcode : Set Mismatch No2. Vector Computing](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/645.%20Set%20Mismatch%20-%20Vector%20Computing.ipynb)
+> - [Leetcode : Set Mismatch No2. Vector Computing](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week3/645.%20Set%20Mismatch%20-%20Vector%20Computing.ipynb)
 
 > - [Back to the top](#content)
 
