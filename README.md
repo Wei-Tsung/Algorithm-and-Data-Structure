@@ -14,7 +14,7 @@
 
 # Content
 
->- Core concepts : [What is class] - Built it in the notebook
+:snowflake: - Core concepts : [What is class] - Built it in the notebook
 
 >> Learning Reference : 
 > - []() 
@@ -23,7 +23,7 @@
 
 Week1 :
 
-> - Core concepts : [What is Linked-List ?](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1/README.md)
+:snowflake: - Core concepts : [What is Linked-List ?](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week1/README.md)
 
 >> - Core Concepts Implementation : [Singly & Doubly Linked-list]()
 
@@ -43,9 +43,8 @@ Extra:
 
 
 Week2 :
-> - Core Concepts : [What is Stack & Queue?](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/Week2)
 
-> - Python Concepts :
+:snowflake: - Core Concepts : [What is Stack & Queue?](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/Week2)
 
 > - [Problem : Using the concept of Stack implementing Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
 
@@ -58,7 +57,7 @@ Week2 :
 
 Week3 :
 
->  - Core Concepts : [What is Set]
+:snowflake: - Core Concepts : [What is Set]
 
 > - []
 
@@ -71,21 +70,22 @@ Week3 :
 
 Week4 :
 
-> - Insertion Sorting Abstarctions : []
+:snowflake: - Insertion Sorting Abstarctions : []
 >> - [Implementation of the Abstractions](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Abstraction%20of%20Insertion%20Sort.ipynb)
 > - [Leetcode : No147. insertion sorting - initial version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Insertion%20Sort%20-%20initial%20writing.ipynb)
 > - [Leetcode : No147. insertion sorting - improved version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/insertionSortList%20---%20Improved%20model.ipynb)
 
-> - Quick Sorting Abstractions : [Readme](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/Week5)
+:snowflake: - Quick Sorting Abstractions : [Readme](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/Week5)
 >> - [Quick Sorting Algorithm Homework  - Standard Way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Implementation%20of%20%20Quick%20Sort.ipynb)
 >>> - [ Standard Way  網頁版開啟](https://nbviewer.jupyter.org/github/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Implementation%20of%20%20Quick%20Sort.ipynb)
 >> - [Quick Sorting Algorithm Homework -- Subtle way](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Quick%20-%20Sorting%20%20Algorithm%20Great-Solved.ipynb)
 >>> - [ Subtle Way  網頁版開啟](https://nbviewer.jupyter.org/github/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week5/Quick%20-%20Sorting%20%20Algorithm%20Great-Solved.ipynb)
->> - [Abstraction Graph 抽象思維流程圖 ](https://nbviewer.jupyter.org/github/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E6%8A%BD%E5%83%8F%E7%8B%80%E6%85%8B%E6%B5%81%E7%A8%8B%E5%9C%96%20Abstraction.png)
+
+:snowflake: >>- [Abstraction Graph 抽象思維流程圖 ](https://nbviewer.jupyter.org/github/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E6%8A%BD%E5%83%8F%E7%8B%80%E6%85%8B%E6%B5%81%E7%A8%8B%E5%9C%96%20Abstraction.png)
 
 Extra:
 
->  - Bubble Sorting : []()
+:snowflake: - Bubble Sorting : []()
 
 >> - [Implementation of Abstractions](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Bubble%20Sorting%20-%20%E6%B3%A1%E6%B2%AB%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
 
@@ -98,7 +98,8 @@ Extra:
 
 
 ## Sorting Algorithmn Time / Space Complexity :
-> - [什麼是Big-O Notation]()
+
+:snowflake: - [什麼是Big-O Notation]
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Big%20O%20notation%20Cheetsheet.jpeg'>
 
