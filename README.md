@@ -104,3 +104,13 @@ Extra:
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Big%20O%20notation%20Cheetsheet.jpeg'>
 
 (The Sheet Created By Author: http://bigocheatsheet.com/)
+
+## 演算法流程圖(FlowChart) (新增中)
+
+> - Why we need FlowChart ?
+
+>> - Visually represent the Flow of data
+>> - Described essential , required operations
+>> - Show the correct sequence of the operations
+>> - Allow software engineering teams to pre-plan and map out the flow of the program
+> - Are sometimes required by the customers or companies for blueprint documentation purpose
