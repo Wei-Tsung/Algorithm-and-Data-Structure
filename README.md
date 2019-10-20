@@ -113,4 +113,4 @@ Extra:
 >> - Described essential , required operations
 >> - Show the correct sequence of the operations
 >> - Allow software engineering teams to pre-plan and map out the flow of the program
-> - Are sometimes required by the customers or companies for blueprint documentation purpose
+>> - Are sometimes required by the customers or companies for blueprint documentation purpose
