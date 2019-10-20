@@ -114,3 +114,11 @@ Extra:
 >> - Show the correct sequence of the operations
 >> - Allow software engineering teams to pre-plan and map out the flow of the program
 >> - Are sometimes required by the customers or companies for blueprint documentation purpose
+
+::snowflakes:: Only Three Key Building Blocks :
+
+1. Sequence
+
+2. Decision
+
+3. Iteration
