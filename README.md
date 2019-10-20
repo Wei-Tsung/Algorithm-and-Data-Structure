@@ -107,7 +107,7 @@ Extra:
 
 ## 演算法流程圖(FlowChart) (新增中)
 
-> - Why we need FlowChart ?
+:snowflake: Why we need FlowChart ?
 
 >> - Visually represent the Flow of data
 >> - Described essential , required operations
