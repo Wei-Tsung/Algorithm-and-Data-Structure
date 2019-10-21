@@ -97,7 +97,7 @@ Extra:
 > - [Leetcode 965 : Univalued Binary Tree]() 
 
 
-## Algorithmn Time / Space Complexity : 演算法 時間 / 空間複雜度
+## Algorithm Time / Space Complexity : 演算法 時間 / 空間複雜度
 
 :snowflake: - [什麼是Big-O Notation]
 
