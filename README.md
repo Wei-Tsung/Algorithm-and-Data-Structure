@@ -92,7 +92,7 @@ Extra:
 > - [Back to the top](#)
 
 
-## Week 6 :
+Week 6 :
 > - [Binary Tree - Heap Sorting]
 > - [Leetcode 965 : Univalued Binary Tree]() 
 
