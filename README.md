@@ -103,7 +103,7 @@ Week 6 :
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Big%20O%20notation%20Cheetsheet.jpeg'>
 
-(The Sheet Created By Author: http://bigocheatsheet.com/)
+(The Sheet Created By Author: Eric Rowell)
 
 ## 演算法流程圖(FlowChart) (新增中)
 
