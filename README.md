@@ -68,7 +68,7 @@ Week3 :
 > - [Back to the top](#content)
 
 
-Week4 :
+Week 4 , 5 :
 
 :snowflake: - Insertion Sorting Abstarctions : []
 >> - [Implementation of the Abstractions](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Abstraction%20of%20Insertion%20Sort.ipynb)
@@ -92,7 +92,7 @@ Extra:
 > - [Back to the top](#)
 
 
-## Week 5 :
+## Week 6 :
 > - [Binary Tree - Heap Sorting]
 > - [Leetcode 965 : Univalued Binary Tree]() 
 
