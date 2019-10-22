@@ -127,7 +127,7 @@ Week 6 :
 
 ## 演算法流程圖(FlowChart) (新增中)
 
-:snowflake: Why we need FlowChart ?
+:snowflake: Why do we need FlowChart ?
 
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Flowchart%20notation%20%E6%BC%94%E7%AE%97%E6%B3%95%20%E5%89%AA%E8%A3%81.png' width=600 height=500 >
@@ -138,6 +138,7 @@ Week 6 :
 >> - Show the correct sequence of the operations
 >> - Allow software engineering teams to pre-plan and map out the flow of the program
 >> - Are sometimes required by the customers or companies for blueprint documentation purpose
+
 
 ## Structure Theorem
 ::snowflake:: Only Three Key Building Blocks :
