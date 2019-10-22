@@ -93,7 +93,7 @@ Extra:
 
 
 Week 6 :
-> - [Binary Tree - Heap Sorting]()
+> - [Binary Tree - Heap - implementation of the concepts](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Binary%20Tree%20Heap%20-%20Implementation%20of%20the%20concepts%20.ipynb)
 > - [Leetcode 965 : Univalued Binary Tree]() 
 
 
