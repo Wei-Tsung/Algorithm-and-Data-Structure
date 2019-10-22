@@ -129,6 +129,10 @@ Week 6 :
 
 :snowflake: Why we need FlowChart ?
 
+
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Flowchart%20notation%20%E6%BC%94%E7%AE%97%E6%B3%95%20%E5%89%AA%E8%A3%81.png' width=600 height=500 >
+
+
 >> - Visually represent the Flow of data
 >> - Described essential , required operations
 >> - Show the correct sequence of the operations
