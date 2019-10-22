@@ -97,13 +97,11 @@ Week 6 :
 > - [Leetcode 965 : Univalued Binary Tree](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Leetcode%20965%20-%20Univalue%20Binary%20Tree.ipynb) 
 
 
-## Algorithm Time / Space Complexity : 演算法 時間 / 空間複雜度
+## Algorithm Time / Space Complexity : 演算法 時間 / 空間複雜度 
+## (The Colored Sheet Were Created By Author: Eric Rowell)
 
-:snowflake: - [什麼是Big-O Notation]
+:snowflake: - [什麼是Big-O Notation]()
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Big%20O%20notation%20Cheetsheet.jpeg'>
-
-(The Sheet Created By Author: Eric Rowell)
 
 ## 演算法流程圖(FlowChart) (新增中)
 
