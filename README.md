@@ -112,7 +112,15 @@ Week 6 :
 
 
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Sorting%20演算法%20剪裁.png' width=600 height=500>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Common%20data%20structure%20operation%20%E5%89%AA%E8%A3%81.png' width=950 height=650>
+
+
+
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Sorting%20演算法%20剪裁.png' width=850 height=600>
+
+
+
+
 
 
 
