@@ -94,7 +94,7 @@ Extra:
 
 Week 6 :
 > - [Binary Tree - Heap - implementation of the concept](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Binary%20Tree%20Heap%20-%20Implementation%20of%20the%20concepts%20.ipynb)
-> - [Leetcode 965 : Univalued Binary Tree]() 
+> - [Leetcode 965 : Univalued Binary Tree](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Leetcode%20965%20-%20Univalue%20Binary%20Tree.ipynb) 
 
 
 ## Algorithm Time / Space Complexity : 演算法 時間 / 空間複雜度
