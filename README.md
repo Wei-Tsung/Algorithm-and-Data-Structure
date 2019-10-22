@@ -93,7 +93,7 @@ Extra:
 
 
 Week 6 :
-> - [Binary Tree - Heap - implementation of the Concept](https://nbviewer.jupyter.org/github/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Binary%20Tree%20-%20Heap%20-%20Implementation%20of%20the%20Concept%20%20-checkpoint.ipynb)
+> - [Binary Tree - Heap - Implementation of the Concept](https://nbviewer.jupyter.org/github/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Binary%20Tree%20-%20Heap%20-%20Implementation%20of%20the%20Concept%20%20-checkpoint.ipynb)
 > - [Leetcode 965 : Univalued Binary Tree](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week6/Leetcode%20965%20-%20Univalue%20Binary%20Tree.ipynb) 
 
 
