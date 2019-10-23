@@ -42,6 +42,16 @@
 - 所以評估演算法優劣的分析時 : 會採用演算法執行時  所需耗費時間/成本 增加的速度來做為較為客觀的衡量標準 -
 
 
-在演算法中，常會使用 Big O Notation 和 Time Complextiy 來衡量一個演算法的好壞
 
-Big O Notation : 代表演算法時間函式的上限（Upper bound），表示在最壞的狀況下，演算法的執行時間不會超過Big-Ο
+在演算法中，常會使用 Big O Notation 和 Time Complextiy 來衡量一個演算法的好壞
+Big-Ο Notation 代表演算法時間函式的上限(Upper bound)
+在最壞的狀況下，演算法的執行時間不會超過Big-Ο
+定義：
+格式：f(n) = Ο(g(n)) iff ∃正常數c和n0，使得f(n) ≤ c × g(n), ∀ n >= n0
+讀音：f of n is big oh of g of n
+n：輸入資料大小
+f(n)：理想狀況下，程式在電腦中實際執行指令次數
+g(n)：執行時間的成長率
+若輸入資料量(n)比(n0)多時，則時間函數f(n)必會小於等於g(n)
+當輸入資料量大到一定程度時，則c×g(n)必定會大於實際執行指令次數
+cg(n)相當於f(n)的上限，在最壞情況下(Worst Case)，f(n)的成長率最多到g(n)，而不會超過它
