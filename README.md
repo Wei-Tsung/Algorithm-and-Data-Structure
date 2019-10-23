@@ -101,7 +101,7 @@ Week 6 :
 
 
 ## Algorithm Time / Space Complexity : 演算法 時間 / 空間複雜度
-:snowflake: - [什麼是Big-O Notation]()
+:snowflake: - [Why Algorithm Analysis is important](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Big-O%20Notation%20%E6%BC%94%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/Big-O%20Notation%20%E6%BC%94%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.md)
 
 
 (The Big-0 Notation Sheet Below Were Created By Author: Eric Rowell)
