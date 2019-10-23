@@ -10,7 +10,7 @@
 
 >- School: Soochow University
 
->- Goal: Using Python to solve the classical Algorithm-and-Data-Structure Problems
+>- Using Python to solve the classical Algorithm-and-Data-Structure Problems
 
 # Content
 
