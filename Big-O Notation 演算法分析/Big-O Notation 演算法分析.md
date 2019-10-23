@@ -7,6 +7,9 @@
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/big%20o%20notation%20%E6%BC%94%E7%AE%97%E6%B3%95%20%E5%89%AA%E8%A3%81.png' width= 800 height= 600>
 
+
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/BigOTime%20%E6%99%82%E9%96%93%E9%A1%9E%E5%9E%8B.png' width = 800>
+
 ### Introduction 概述 :
 
 - 當數據量尺度還小的時候 , 演算法執行效率的優劣通常會被人給忽略
