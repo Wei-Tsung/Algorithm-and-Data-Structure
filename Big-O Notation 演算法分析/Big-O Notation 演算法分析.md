@@ -11,8 +11,9 @@
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/BigOTime.png' width = 800>
 
 ### Introduction 概述 :
+當數據量尺度還小的時候 ， 演算法執行效率的優劣通常會被人給忽略
 
-- 當數據量尺度還小的時候 , 演算法執行效率的優劣通常會被人給忽略
+---
 
 因為同樣都能夠執行 , 在尺度小的情況下 , 一般人在感受上不太明顯
 
