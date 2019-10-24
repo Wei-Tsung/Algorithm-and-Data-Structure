@@ -4,7 +4,7 @@
 
 
 
->> Name: Wei - Tsung :
+:snowflake: Name: Wei - Tsung :
 
 >- Major: Big Data Management
 
