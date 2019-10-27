@@ -96,11 +96,11 @@ Week 6 :
 
 Week 7 :
 
-> <strong>Heap Sorting</strong>
+> - <strong>Heap Sorting</strong>
 
-> <strong>Merge Sorting</strong>
+> - <strong>Merge Sorting</strong>
 
-> -[HomeWork2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/HW2)
+> - [HomeWork2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/HW2)
 
 
 
