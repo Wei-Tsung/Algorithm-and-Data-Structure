@@ -11,6 +11,9 @@
 
 ### Merge Sorting　合併排序法 :
 
+<img src='' >
+
+
 Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一樣，<br>一定會有切割到最小單位並進行處理的過程(Atomize)<br>
 
 如圖一所示，演算法會把原始的資料Array切割成單位為1的最小單位，然後兩兩排序過後合併起來，一步一步重新再構築成經過排序過的原始的大小；<br>
@@ -23,12 +26,14 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 #### 實現過程：
 
 
-首先會將這 n 筆資料分成兩等分（大小皆為 n/2）；　把這兩等分的中間的index設置為midpoint<br>
+首先會將這 n 筆資料對半切割成兩等分（大小皆為 n/2）；　把這兩等分的中間的index設置為midpoint<br>
+
+左半邊為left_Section ，　右半邊為right_Section
 
 接著，再將這兩堆大小為 n/2 的資料各自分為兩等分（大小皆為 n/2^2）；<br>同樣的，我們再將這四堆大小為 n/4 的資料各自再切為兩等分（大小皆為 n/2^3）。<br>
 
 如此循環進行切割下去，直到每個片段的資料量足夠小（一般為1單位）之後，我們就分別將小單位的資料進行排序，
-再將這些資料單位兩兩一對進行合併，直到全部排序完成，並同時還原原本資料的大小。
+再將這些資料單位兩兩一對進行合併，直到全部排序完成，同時還原原本資料的大小。
 
 ---
 
@@ -39,6 +44,8 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 ### Heap Sorting 堆積排序法 :
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20sorting%20%E8%A7%A3%E6%9E%90.jpg' >
+(以上圖片的原始作者為參考連結中的 )
 
 
 ## Reference 參考
