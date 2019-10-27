@@ -132,7 +132,7 @@ Week 7 :
 
 ## 演算法流程圖(FlowChart) (新增中)
 
-:snowflake: Why do we need FlowChart ?
+:snowflake: <strong>Why do we need FlowChart ? </strong>
 
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Flowchart%20notation%20%E6%BC%94%E7%AE%97%E6%B3%95%20%E5%89%AA%E8%A3%81.png' width=800 height=600 >
