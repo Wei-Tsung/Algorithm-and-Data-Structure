@@ -40,7 +40,8 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 ---
 
-<strong>Insight:</strong>
+<strong>Insight:</strong><br>
+
 因為Merge Sorting從一開始的切割，到最後的還原過程，彼此之間有相互繼承的連續性關係，所以使用遞迴關係來實現可以讓程式碼更加的簡潔優雅
 
 ---
