@@ -138,15 +138,15 @@ Week 7 :
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Flowchart%20notation%20%E6%BC%94%E7%AE%97%E6%B3%95%20%E5%89%AA%E8%A3%81.png' width=800 height=600 >
 
 
->> - <strong>Visually represent the Flow of data</strong>
+> - <strong>Visually represent the Flow of data</strong>
 
->> - <strong>Described essential , required operations</strong>
+> - <strong>Described essential , required operations</strong>
 
->> - <strong>Show the correct sequence of the operations</strong>
+> - <strong>Show the correct sequence of the operations</strong>
 
->> - <strong>Allow software engineering teams to pre-plan and map out the flow of the program</strong>
+> - <strong>Allow software engineering teams to pre-plan and map out the flow of the program</strong>
 
->> - <strong>Are sometimes required by the customers or companies for blueprint documentation purpose</strong>
+> - <strong>Are sometimes required by the customers or companies for blueprint documentation purpose</strong>
 
 
 ## Structure Theorem
