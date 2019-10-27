@@ -26,9 +26,10 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 #### 實現過程：
 
 
-首先會將這 n 筆資料對半切割成兩等分（大小皆為 n/2）；　把這兩等分的中間的index設置為midpoint<br>
+首先會將這 n 筆資料對半切割成兩等分（大小皆為 n/2）；<br>　
 
-左半邊為left_Section ，　右半邊為right_Section
+把這兩等分的中間的index設置為midpoint<br>
+其中左半邊為left_Section ，　右半邊為right_Section
 
 接著，再將這兩堆大小為 n/2 的資料各自分為兩等分（大小皆為 n/2^2）；<br>同樣的，我們再將這四堆大小為 n/4 的資料各自再切為兩等分（大小皆為 n/2^3）。<br>
 
