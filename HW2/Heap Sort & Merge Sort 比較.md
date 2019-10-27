@@ -12,7 +12,7 @@
 ### Merge Sorting　合併排序法 :
 ---
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95.png' width=650　height=500>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95.png' width=650 height=500>
 
 (圖片原始作者來自參考連結)
 
