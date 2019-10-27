@@ -28,6 +28,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 先建立一個midpoint
 
 
+### Heap Sorting 堆積排序法 :
 
 
 
