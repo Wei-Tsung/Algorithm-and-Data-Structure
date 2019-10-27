@@ -44,7 +44,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 ### Heap Sorting 堆積排序法 :
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20sorting%20%E8%A7%A3%E6%9E%90.jpg' >
+<img src= >
 (以上圖片的原始作者為參考連結中的 )
 
 
