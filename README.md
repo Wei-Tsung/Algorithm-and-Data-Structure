@@ -68,7 +68,7 @@ Week3 :
 
 Week 4 , 5 :
 
-:snowflake: - Insertion Sorting Abstarctions : []
+:snowflake: - <strong>Insertion Sorting Abstarctions : </strong>[]
 >> - [Implementation of the Abstractions](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Abstraction%20of%20Insertion%20Sort.ipynb)
 > - [Leetcode : No147. insertion sorting - initial version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/Insertion%20Sort%20-%20initial%20writing.ipynb)
 > - [Leetcode : No147. insertion sorting - improved version](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/blob/master/Week4/insertionSortList%20---%20Improved%20model.ipynb)
