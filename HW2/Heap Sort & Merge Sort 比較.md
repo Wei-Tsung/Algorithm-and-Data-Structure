@@ -18,7 +18,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 如圖一所示，演算法會把原始的數據Array切割成單位為1的最小單位，然後兩兩排序過後合併起來，一步一步重新再構築成經過排序過的原始的大小；<br>
 
 
-與Qucik sort不一樣的地方在，Merge Sort 無論如何總是頃向對稱的方式切割(若奇數個有其中一邊會多一個)，Quick Sort則是會以某個位置的值為基準點
+與Qucik sort不一樣的地方在，Merge Sort 無論如何總是頃向對稱的方式切割(若奇數個有其中一邊會多一個)；<br>Quick Sort則是會以某個位置的值為基準點
 視情況而定來切割，左右兩邊大小更常會呈現不對稱的情況，效率上Quick Sort更加好一點　<br>
 
 
