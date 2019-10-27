@@ -10,9 +10,10 @@
 
 
 ### Merge Sorting　合併排序法 :
+---
 <p>
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95.png' width=650>
-
+---
 
 Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一樣，<br>一定會有切割到最小單位並進行處理的過程(Atomize)<br>
 
