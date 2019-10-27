@@ -5,6 +5,10 @@
 
 > 此圖原創作者，來自參考連結Algorithmic Analysis
 
+### 時間複雜度 :
+> Merge Sorting :
+> Heap Sorting :
+> Quick Sorting : 
 
 
 ### Merge Sorting　合併排序法 :
@@ -16,6 +20,12 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 與Qucik sort不一樣的地方在，Merge Sort 無論如何總是頃向對稱的方式切割(若奇數個有其中一邊會多一個)，Quick Sort則是會以某個位置的值為基準點
 視情況而定來切割，左右兩邊大小更常會呈現不對稱的情況，效率上Quick Sort更加好一點　<br>
+
+
+#### 實現過程：
+
+
+先建立一個midpoint
 
 
 
