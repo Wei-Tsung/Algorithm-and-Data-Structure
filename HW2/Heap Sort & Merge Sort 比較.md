@@ -1,4 +1,6 @@
 
+>>　演算法效率比較圖
+
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E4%BD%9C%E6%A5%AD%E4%BA%8C%20%E6%BC%94%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87%E6%AF%94%E8%BC%83%E5%9C%96.png'>
 
 > 此圖原創作者，來自參考連結Algorithmic Analysis
@@ -22,6 +24,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 ## Reference 參考
 
 > [Sorting Algorithm](https://www.hackerearth.com/zh/practice/algorithms/sorting/merge-sort/tutorial/)
+
 > [Merge sorting](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 
 > [Infinite Loop](http://program-lover.blogspot.com/2008/10/mergesort.html)
