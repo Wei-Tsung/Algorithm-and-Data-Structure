@@ -8,6 +8,7 @@
 ### 時間複雜度 :
 > Heap Sorting : <　Merge Sorting :　< Quick Sorting : 
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E5%8F%AA%E8%A6%81%E7%95%99%E4%B8%8B%E4%B8%89%E5%80%8B%E9%83%A8%E5%88%86%20%E5%AE%8C%E6%88%90.png'>
 
 ### Merge Sorting　合併排序法 :
 ---
