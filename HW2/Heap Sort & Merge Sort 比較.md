@@ -20,3 +20,5 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 > [Merge sorting](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 
 > [Infinite Loop](http://program-lover.blogspot.com/2008/10/mergesort.html)
+
+> [<strong>Algorithmic Analysis</strong>](https://hashanp.xyz/algorithms.html)
