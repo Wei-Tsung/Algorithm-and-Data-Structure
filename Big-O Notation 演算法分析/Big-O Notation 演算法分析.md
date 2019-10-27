@@ -32,7 +32,7 @@
  
 ---
 
-<strong>Question : </strong>
+<strong>Let Me Ask You A Simple Question : </strong>
 
 <strong>如果今天把量的尺度放大，一家企業的軟體專案成本是100萬   
 
