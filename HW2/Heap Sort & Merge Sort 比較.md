@@ -55,7 +55,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 ### Heap Sorting 堆積排序法 :
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Heap%20Sort%20%E4%BD%9C%E6%A5%AD%E4%BA%8C.png' width=800 height=550>
-(此原圖作者為參考連結中的 James Le) <p>
+- 此原圖作者為參考連結中的 James Le <p>
 
 
 - 時間複雜度 : n(logn)
@@ -117,4 +117,4 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 > [<strong>Algorithmic Analysis</strong>](https://hashanp.xyz/algorithms.html)
 
-> [data science - James Le](https://medium.com/cracking-the-data-science-interview/heap-sort-merge-sort-and-convex-hull-4cd108ae3ed4)
+> [Data science - James Le](https://medium.com/cracking-the-data-science-interview/heap-sort-merge-sort-and-convex-hull-4cd108ae3ed4)
