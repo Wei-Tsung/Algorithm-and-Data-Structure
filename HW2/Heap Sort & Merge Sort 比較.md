@@ -108,7 +108,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 ---
 
 
-## Reference 參考
+#### Reference 參考
 
 > [Sorting Algorithm](https://www.hackerearth.com/zh/practice/algorithms/sorting/merge-sort/tutorial/) <br>
 
