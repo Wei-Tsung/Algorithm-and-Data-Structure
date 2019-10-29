@@ -93,7 +93,7 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 ---
 
-<strong>Insigt</strong>:
+<strong>Insight</strong>:
 
 雖然抽象概念是如此，
 但是在程式語言實作上不能直接取出或刪除根節點，因為那會破壞掉整體堆積樹定義下數值大小的結構 ; <br>
