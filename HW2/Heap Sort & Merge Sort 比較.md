@@ -6,7 +6,7 @@
 > 此圖原創作者，來自參考連結Algorithmic Analysis
 
 ### 時間複雜度 :
-> Heap Sorting : <　Merge Sorting :　< Quick Sorting : 
+> Heap Sorting : >　Merge Sorting :　> Quick Sorting : 
 
 
 ### Merge Sorting　合併排序法 :
