@@ -57,6 +57,10 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Heap%20Sort%20%E4%BD%9C%E6%A5%AD%E4%BA%8C.png' width=800 height=550>
 (以上圖片的原始作者為參考連結中的 ) <p>
 
+
+- 時間複雜度 : n(logn)
+
+
 > 堆積排序法主要是使用到堆積二元樹為基礎架構，以進行排序的方式<br>
 
 
@@ -87,7 +91,17 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 秩序破壞掉後，再重新使用函數建立新的堆積樹，一直循環進行取出，重建，依據每次取出的次序依序進行排序，<br>
 直到將樹中所有值全部取出時，就能依序由小到大排序或由大到小排序了
 
+---
 
+Insigt:
+
+雖然抽象概念是如此，
+但是在程式語言實作上不能直接取出或刪除根節點，因為那會破壞掉整體堆積樹定義下數值大小的結構 ;<br>
+
+所以實作上根節點(最大或最小)的值會跟index最後一項的葉節點交換，以表示排序完成，將樹的整體大小減1　<br>
+可以這麼做的原因是因為在完全樹當中，葉節點不可能同時還是根節點，所以即使修剪掉也不會破壞整體堆積樹的結構<p> 
+
+---
 
 
 ## Reference 參考
