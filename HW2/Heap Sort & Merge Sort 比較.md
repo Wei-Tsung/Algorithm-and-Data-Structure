@@ -110,12 +110,8 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 
 ## Reference 參考
 
-> [Sorting Algorithm](https://www.hackerearth.com/zh/practice/algorithms/sorting/merge-sort/tutorial/)
-
-> [Merge sorting](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
-
-> [Infinite Loop](http://program-lover.blogspot.com/2008/10/mergesort.html)
-
-> [<strong>Algorithmic Analysis</strong>](https://hashanp.xyz/algorithms.html)
-
-> [Data science - James Le](https://medium.com/cracking-the-data-science-interview/heap-sort-merge-sort-and-convex-hull-4cd108ae3ed4)
+> [Sorting Algorithm](https://www.hackerearth.com/zh/practice/algorithms/sorting/merge-sort/tutorial/) <br>
+> [Merge sorting](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html) <br>
+> [Infinite Loop](http://program-lover.blogspot.com/2008/10/mergesort.html) <br>
+> [<strong>Algorithmic Analysis</strong>](https://hashanp.xyz/algorithms.html) <br>
+> [Data science - James Le](https://medium.com/cracking-the-data-science-interview/heap-sort-merge-sort-and-convex-hull-4cd108ae3ed4)<<br>
