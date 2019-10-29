@@ -14,7 +14,7 @@
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95.png' width=650 height=500>
 
-(此原圖作者來自參考連結中的)
+> 此原圖作者來自參考連結中的
 
 ---
 
@@ -55,7 +55,8 @@ Merge Sorting 是分治(Divide and Conquer)演算法的一種，與Quick Sort一
 ### Heap Sorting 堆積排序法 :
 
 <img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Heap%20Sort%20%E4%BD%9C%E6%A5%AD%E4%BA%8C.png' width=800 height=550>
-- 此原圖作者為參考連結中的 James Le <p>
+
+> 此原圖作者為參考連結中的 James Le <p>
 
 
 - 時間複雜度 : n(logn)
