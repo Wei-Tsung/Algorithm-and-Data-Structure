@@ -1,9 +1,5 @@
 ### Merge Sorting 流程圖 : 
 
-
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/%E6%9C%AA%E5%AE%8C%E6%88%90%E6%B5%81%E7%A8%8B%E5%9C%96%20Diagram%20(5)%20(1).jpg' width=200%>
-
-
 一開始在看完演算法的抽象概念描述之後
 
 - 第一個想法是想要把Merge-Sorting分成三個部分的函數<br>
@@ -70,3 +66,11 @@ Error尤其非常容易出現在從Partitioning要轉換為Merging的轉折點�
 <strong>但是除了在一些思考概念上得到啟發之外，實際程式碼的撰寫內容完全原創<br>
 
 若點進去看就會發現實際的程式碼相似度極低，幾乎可以說是等於0</strong>
+
+---
+
+
+
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20Sorting%E6%B5%81%E7%A8%8B%E5%9C%96%20%E5%89%AA%E8%A3%81%E5%AE%8C%E6%88%90.jpg' width=200%>
+
+
