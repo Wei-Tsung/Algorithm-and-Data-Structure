@@ -60,7 +60,7 @@ Error尤其非常容易出現在從Partitioning要轉換為Merging的轉折點�
 
 ---
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20Sorting%E6%B5%81%E7%A8%8B%E5%9C%96%20%E5%89%AA%E8%A3%81%E5%AE%8C%E6%88%90.jpg' width=300%>
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20Sorting%E6%B5%81%E7%A8%8B%E5%9C%96%20%E5%89%AA%E8%A3%81%E5%AE%8C%E6%88%90.jpg' width=400%>
 
 
 ---
