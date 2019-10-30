@@ -21,6 +21,12 @@ Heap Sorting概念的實作首先會使用到堆積二元樹的概念 :
 
 ---
 
+<strong>Heap sort主程式</strong>
+
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Heap%20sort%20jpg.jpg' >
+
+---
+
 先設定size = len(arr)，設定一個迴圈index由list的最後面一個父節點開始往回推回來直到[,index=1]才停止，
 因為0是虛擬變數 ;
 
