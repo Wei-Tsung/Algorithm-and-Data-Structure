@@ -64,10 +64,9 @@ Error尤其非常容易出現在從Partitioning要轉換為Merging的轉折點�
 
 ---
 
+參考資料：https://stackoverflow.com/questions/18761766/mergesort-with-python　<br>
 <strong>思考概念有參考StackFlow的討論，從以下Stackoverflow討論版中，思考並了解Merge_Sort背後的原理</strong><br> 
-參考資料：https://stackoverflow.com/questions/18761766/mergesort-with-python　<br> 
-
-
+ 
 <strong>但是除了在一些思考概念上得到啟發之外，實際程式碼的撰寫內容完全原創<br>
 
 若點進去看就會發現實際的程式碼相似度極低，幾乎可以說是等於0</strong>
