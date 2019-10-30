@@ -39,3 +39,37 @@ Error尤其非常容易出現在從Partitioning要轉換為Merging的轉折點�
 
 ---
 
+第二次的思考架構 :
+
+
+- 只寫一個Merge_sort的函數<br>
+
+
+- 引入的函數若長度大於1時就進行不斷的遞迴right,left對半切割　，　直到right,left長度的size小於等於1時就中止回傳開始進行合併過程
+
+
+- 從最底層的長度1單位arr開始兩兩排序並合併，因為遞迴關係有線性的連續繼承關係，所以回傳後同樣的過程可以將排序合併，擴及到整個整個arr
+
+
+- 排序方式為left,right array依大小依序重新排入arr[]，arr以sort為index從0開始，left的index為n1，right的index則設定為n2 
+
+
+- left,right若有一邊的element已經使用完了，設定信號over=1，直接將另一串剩下的array element直接全數排入，因為這些array剩下的elememt順序從最小1單位開始時早就已經依序排序過，所以已經不必再進行另外的排序了；
+
+
+- 此過程從最小單位開始一路擴展到最大，合併直到Array的length與原始的Array相同時就回傳
+
+
+- (新補充)後來依據老師新的規定引入了class 將程式碼重新改寫過
+
+---
+
+參考資料：https://stackoverflow.com/questions/18761766/mergesort-with-python　<br> 
+
+<strong>思考概念有參考StackFlow的討論，從StackFlow討論版中，思考並了解Merge_Sort的背後原理<br> 
+
+
+
+但是除了在一些思考概念上得到啟發之外，實際程式碼的撰寫內容完全原創<br>
+
+若點進去看就會發現實際的程式碼相似度極低，幾乎可以說是等於0</strong>
