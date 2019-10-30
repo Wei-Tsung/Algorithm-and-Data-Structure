@@ -23,6 +23,7 @@ Heap Sorting概念的實作首先會使用到堆積二元樹的概念 :
 
 
 <strong>Heap sort主程式</strong>
+
 ---
 <br>
 
