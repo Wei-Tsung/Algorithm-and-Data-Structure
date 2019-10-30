@@ -60,6 +60,11 @@ Error尤其非常容易出現在從Partitioning要轉換為Merging的轉折點�
 
 ---
 
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20Sorting%E6%B5%81%E7%A8%8B%E5%9C%96%20%E5%89%AA%E8%A3%81%E5%AE%8C%E6%88%90.jpg' width=300%>
+
+
+---
+
 參考資料：https://stackoverflow.com/questions/18761766/mergesort-with-python　<br>
 思考概念有參考StackFlow的討論，從以下Stackoverflow討論版中，思考並了解Merge_Sort背後的原理
  
@@ -68,9 +73,3 @@ Error尤其非常容易出現在從Partitioning要轉換為Merging的轉折點�
 若點進去看就會發現實際的程式碼相似度極低，幾乎可以說是等於0</strong>
 
 ---
-
-
-
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Merge%20Sorting%E6%B5%81%E7%A8%8B%E5%9C%96%20%E5%89%AA%E8%A3%81%E5%AE%8C%E6%88%90.jpg' width=300%>
-
-
