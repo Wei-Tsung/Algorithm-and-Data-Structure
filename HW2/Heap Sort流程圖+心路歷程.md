@@ -28,7 +28,7 @@ Heap Sorting概念的實作首先會使用到堆積二元樹的概念 :
 
 <br>
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/add_heap%20%E5%AE%8C%E6%88%90.jpg' width=60% >
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/add_heap%20%E5%AE%8C%E6%88%90.jpg' width=70% >
 
 
 ---
@@ -39,7 +39,7 @@ Heap Sorting概念的實作首先會使用到堆積二元樹的概念 :
 ---
 <br>
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/heap_sort%E5%AE%8C%E6%88%90.jpg' width=60% >
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/heap_sort%E5%AE%8C%E6%88%90.jpg' width=70% >
 
 ---
 
