@@ -19,15 +19,27 @@ Heap Sorting概念的實作首先會使用到堆積二元樹的概念 :
 
 - （新補充）依據新的規定重新補入class的架構
 
+
+---
+
+<strong>Binary Tree Function : </strong>
+
+---
+
+<br>
+
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/add_heap%20%E5%AE%8C%E6%88%90.jpg' >
+
+
 ---
 
 
-<strong>Heap sort主程式</strong>
+<strong>Heap sort主程式 : </strong>
 
 ---
 <br>
 
-<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/Heap%20sort%20jpg.jpg' >
+<img src='https://github.com/Wei-Tsung/Core-Concepts-Visualization/blob/master/heap_sort%E5%AE%8C%E6%88%90.jpg' >
 
 ---
 
