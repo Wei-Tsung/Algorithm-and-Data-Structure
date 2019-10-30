@@ -24,7 +24,8 @@
 先設定size = len(arr)，設定一個迴圈index由list的最後面一個父節點開始往回推回來直到[,index=1]才停止，
 因為0是虛擬變數 ;
 
-進入到堆積樹add_heap函數之後size的意義已經不只是size了，而是做為比較時的index使用，為了稍晚避免誤踩地雷index out of range(已經踩了很多次地雷)
+進入到堆積樹add_heap函數之後size的意義已經不只是size了，而是做為比較時的index使用，<br>
+為了稍晚避免誤踩地雷index out of range(已經踩了很多次地雷)<br>
 
 所以在引入add_heap之前size就先減1再說 ;
 
