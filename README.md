@@ -100,7 +100,7 @@ Week 7 :
 
 > - <strong>Merge Sorting</strong>
 
-> - [HomeWork2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/HW2)
+> - [HW2](https://github.com/Wei-Tsung/Algorithm-and-Data-Structure/tree/master/HW2)
 
 
 
