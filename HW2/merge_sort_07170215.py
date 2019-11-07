@@ -76,7 +76,7 @@ Solution().merge_sort(original_arr)
 
 #https://stackoverflow.com/questions/18761766/mergesort-with-python 
 
-#曾參考過StackFlow討論版  但僅止於了解Merge Sort背後的原理 
+#曾參考過StackoverFlow討論版  但僅止於了解Merge Sort背後的原理 
 #實際程式碼撰寫內容為原創  與原參考來源的相似度極低 , 幾乎等於0
 
 #參考書 蔡明志 : 資料結構 : 使用Python : Sorting原理說明
