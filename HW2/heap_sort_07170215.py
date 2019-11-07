@@ -24,7 +24,7 @@ class Solution(object):  # 依據課堂的規定 , 格式後來才補上的
     
         ###本來想直接把第一個直取出 讓剩下的tree重新排列  但是直接取掉第一個根部會破壞掉整個樹的結構
         for n in range(size-2,0,-1): # -2是為了讓data[n+1]的index不超出範圍
-            data[n+1] , data[1] = data[1] , data[n+1] # 不知道這算不算是正規的作法
+            data[n+1] , data[1] = data[1] , data[n+1] 
         
             Solution().add_heap(data,1,n) # n就是每次遞減1的size  
         
